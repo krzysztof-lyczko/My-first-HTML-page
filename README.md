@@ -1,2 +1,2 @@
 # html-course
-My first ever HTML site 
+My first ever HTML site, just basic things.
